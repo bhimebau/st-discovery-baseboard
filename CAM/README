@@ -1,0 +1,30 @@
+C335_project CAM notes
+
+All CAM files produced by Eagle CAD
+
+File Suffixes:
+
+*.cmp	component side (top) copper
+*.sol	solder side (bottom) copper
+*.plc	top side silk screen
+*.stc	top side solder mask
+*.sts	bottom side solder mask
+*.drd	Excellon drill data
+*.dri	Excellon drill info
+*.gpi	Gerber info
+
+overall board dimensions 6.9" x 7.7"
+2 layer, 1 oz. FR-4 .062 thick
+solder mask both sides
+silkscreen top side only
+plated Sn/Pb HASL
+
+Contact info:
+
+Caleb Hess	cmhess@indiana.edu
+812 855-6995
+
+150 S. Woodlawn Ave.
+Lindley Hall 215
+Bloomington, IN 47405
+

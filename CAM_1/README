@@ -1,0 +1,28 @@
+
+Board identifier:	C335_Proj
+
+Board dimensions:	6.9" x 7.7"
+
+2 pcs. 
+use $33 specs
+
+C335_Project board files:
+
+*.cmp	Component side
+*.sol	Solder side
+*.plc	Top silkscreen & dimension
+*.stc	Soldermask top
+*.sts	Soldermask bottom
+*.drd	Excellon drill file
+*.dri	Excellon tool list
+*.gpi	Gerber info file
+
+All dimensions in inches
+
+Ship to:
+
+Caleb Hess
+Indiana University School of Informatics
+Lindley Hall 215
+Bloomington, IN  47405
+
